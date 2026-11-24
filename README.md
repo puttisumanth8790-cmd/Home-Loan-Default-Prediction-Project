@@ -240,7 +240,7 @@ Open `Home_Loan_Default_Analysis.ipynb` and execute the notebook cells sequentia
 
 📌 Data Science | Python | Machine Learning | Data Analytics
 
-🔗 GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
+🔗 GitHub: https://github.com/puttisumanth8790-cmd
 
 ---
 
